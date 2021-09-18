@@ -1,0 +1,2 @@
+# EDA-Of-Police-Violence-In-the-USA
+In this project, I focused to analyze and visualize the data that showed the most states with the highest murder rate, the most used weapons in killings, and the most race targeted by policemen in the United States. this considers one of the biggest problems that face the united states from years. this data include many innocent people of different races who were killed by policemen in the United States
